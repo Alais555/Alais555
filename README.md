@@ -12,3 +12,5 @@
 ---
 
 <img align="left" alt="Alais555 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alais555&show_icons=true&hide_border=true&theme=tokyonight" />
+
+<img align="left" alt="Alais555 Github language card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alais555&layout=compact" />
