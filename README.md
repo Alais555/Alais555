@@ -2,10 +2,10 @@
 
 ## I'm a Designer, Programmer, and Developer!
 
-* 🔭 I just started my web developer career
+* 🔭 Just started my tech career
 * 🌱 I’m currently learning everything 
-* 👯 I’m looking to collaborate with others
-* 🥅 2020 Goals: Get bunch of experience 
+* 👯 I’m looking forward to collaborate with others
+* 🥅 2020 Goals: Get more experience to perform better quality projects
 * ⚡ Fun fact: I love to watch anime and go outdoors 
 
 ### Languages and Tools:
