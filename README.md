@@ -9,6 +9,10 @@
 - 🥅 2020 Goals: Get bunch of experience 
 - ⚡ Fun fact: I love to watch anime and go outdoors 
 
+### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/michael-giovanni-contreras-207b961aa/" />][linkedin]
+<br />
+
 ---
 
 <img align="left" alt="Alais555 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alais555&show_icons=true&hide_border=true&theme=tokyonight" />
